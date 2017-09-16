@@ -1,7 +1,7 @@
 {
   "name": "mortgage",
   "version": "0.0.1",
-  "description": "Mortgage overpayment calculatorrrrr",
+  "description": "Mortgage overpayment calculator",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
