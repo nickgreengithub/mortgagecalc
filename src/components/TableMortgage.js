@@ -20,7 +20,7 @@ export const TableMortgage = (({payments, className})=> {
 		}, {interestTotal:0, overpaymentTotal:0, rows:[]});
 
 	return <Table className={className}
-			headings={["Years", "Interest", "Overpayment", "Balance"]}
+			headings={["Years", "Interest", "Over-payment", "Balance"]}
 			rows={output.rows}
 			totals={[" ",Math.round(output.interestTotal), Math.round(output.overpaymentTotal)," "]} />;
 });
