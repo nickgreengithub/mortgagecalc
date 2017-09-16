@@ -12,7 +12,7 @@ export default connect(({ mortgage }) => ({ mortgage }))(
         <input type="text" maxLength="7" value={ initial } onChange={ e=>dispatch(actions.setInitial(e.target.value)) } />
       </div>
       <div>
-        <label>Years</label>
+        <label>Yearssss</label>
         <input type="number" maxLength="2" value={ years } onChange={ e=>dispatch(actions.setYears(e.target.value)) } />
       </div>
       <div>
