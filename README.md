@@ -1,5 +1,6 @@
-Mortgage overpayment calculator using React, Redux and D3
+Testing (learning material copied from Paul Houghton, thank you Paul :)
 
-http://paulhoughton.github.io/mortgage/
+https://nickgreengithub.github.io/mortgagecalc/
+
 
 See also [Mobx](https://github.com/paulhoughton/mortgage-mobx/) version 
